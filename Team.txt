@@ -1,2 +1,2 @@
 Leader: Kesuma
-Team_1: -
+Team_1: kesuma_kara
