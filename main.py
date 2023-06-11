@@ -1,4 +1,5 @@
 """
-This is demo with python
+This is project demo with python
 """
-print('mom said')
+print('mom said "go to shop and buy 3 kecap"')
+
