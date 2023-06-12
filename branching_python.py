@@ -7,7 +7,7 @@ egg_bake = 25
 print(f'jumlah botol susu {milk_base} bottle')
 print(f'jumlah telur {egg_bake} glundung')
 
-# sequential
+# sequential and branching
 if milk_base > 0:
     print('boy check price, his money enough')
     print('boy buy 1 milk')
