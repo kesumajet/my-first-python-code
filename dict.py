@@ -16,4 +16,10 @@ users = {
 
 print(users["address"]["suite"])
 
+import json
+result = json.dumps(users)
+print(result)
+
+with open('result.json', 'w') as file:
+    json.dump(users, file)
 
