@@ -47,3 +47,4 @@ print('\nCreate new list')
 del book_list[:]
 for i in range(0, len(new_list_book)):
     print(new_list_book[i])
+    
